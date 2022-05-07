@@ -3,7 +3,7 @@
 ,
 {"FID":"1","Id":"林地","gridcode":"2","Time":"1992��1��1��","MERGE_SRC":"1992","Shape_Leng":"196.2335389","Shape_Area":"15760.06487","Percent":"62.33%"}
 ,
-{"FID":"2","Id":"ˮ水域","gridcode":"4","Time":"1992��1��1��","MERGE_SRC":"1992","Shape_Leng":"13.38037329","Shape_Area":"266.8806319","Percent":"1.06%"}
+{"FID":"2","Id":"水域","gridcode":"4","Time":"1992��1��1��","MERGE_SRC":"1992","Shape_Leng":"13.38037329","Shape_Area":"266.8806319","Percent":"1.06%"}
 ,
 {"FID":"3","Id":"耕地","gridcode":"5","Time":"1992��1��1��","MERGE_SRC":"1992","Shape_Leng":"196.8407829","Shape_Area":"9037.719864","Percent":"35.74%"}
 ,
